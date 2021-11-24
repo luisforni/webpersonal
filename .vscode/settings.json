@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.linting.pylintArgs": [
+        "--errors-only",
+        "--load-plugins",
+        "pylint_django",
+    ],
+
+}
